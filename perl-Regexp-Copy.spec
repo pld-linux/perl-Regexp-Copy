@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Regexp
-%define	pnam	Copy
+%define		pdir	Regexp
+%define		pnam	Copy
 Summary:	Regexp::Copy - copy Regexp objects
 Summary(pl):	Regexp::Copy - kopiowanie obiektów Regexp
 Name:		perl-Regexp-Copy

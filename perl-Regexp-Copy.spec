@@ -1,3 +1,4 @@
+	# $Revision: 1.2 $, $Date: 2003-09-18 13:20:57 $
 #
 # Conditional build:
 # _without_tests - do not perform "make test"
@@ -8,12 +9,12 @@
 Summary:	Regexp::Copy - copy Regexp objects
 Summary(pl):	Regexp::Copy - kopiowanie obiektów Regexp
 Name:		perl-Regexp-Copy
-Version:	0.05
+Version:	0.06
 Release:	1
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	23ebab95d861b6bfa7dbc26e3ca7a629
+# Source0-md5:	d0f3875e0655c0ac9eb37813ec82c137
 BuildRequires:	perl-devel >= 5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)

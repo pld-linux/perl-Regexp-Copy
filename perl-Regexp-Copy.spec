@@ -6,7 +6,7 @@
 %define		pdir	Regexp
 %define		pnam	Copy
 Summary:	Regexp::Copy - copy Regexp objects
-Summary(pl):	Regexp::Copy - kopiowanie obiektów Regexp
+Summary(pl.UTF-8):   Regexp::Copy - kopiowanie obiektÃ³w Regexp
 Name:		perl-Regexp-Copy
 Version:	0.06
 Release:	1
@@ -28,12 +28,12 @@ without losing the reference to it. Its impossible. Regexp::Copy
 allows you to change the Regexp by copying one object created through
 qr// to another.
 
-%description -l pl
-Regexp::Copy pozwala na kopiowanie zawarto¶ci jednego obiektu Regexp
-do innego. Problem z operatorem qr// jest taki, ¿e do obiektów przez
-niego utworzonych nie mo¿na siêgaæ. Powoduje to problemy, je¶li chcemy
-zmieniæ dane w wyra¿eniu bez utraty referencji do niego - jest to
-niemo¿liwe. Regexp::Copy pozwala na modyfikowanie wyra¿enia
+%description -l pl.UTF-8
+Regexp::Copy pozwala na kopiowanie zawartoÅ›ci jednego obiektu Regexp
+do innego. Problem z operatorem qr// jest taki, Å¼e do obiektÃ³w przez
+niego utworzonych nie moÅ¼na siÄ™gaÄ‡. Powoduje to problemy, jeÅ›li chcemy
+zmieniÄ‡ dane w wyraÅ¼eniu bez utraty referencji do niego - jest to
+niemoÅ¼liwe. Regexp::Copy pozwala na modyfikowanie wyraÅ¼enia
 regularnego poprzez kopiowanie obiektu utworzonego przez qr// do
 innego.
 

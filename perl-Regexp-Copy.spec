@@ -6,7 +6,7 @@
 %define		pdir	Regexp
 %define		pnam	Copy
 Summary:	Regexp::Copy - copy Regexp objects
-Summary(pl.UTF-8):   Regexp::Copy - kopiowanie obiektów Regexp
+Summary(pl.UTF-8):	Regexp::Copy - kopiowanie obiektów Regexp
 Name:		perl-Regexp-Copy
 Version:	0.06
 Release:	1

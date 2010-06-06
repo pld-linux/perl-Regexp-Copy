@@ -9,7 +9,7 @@ Summary:	Regexp::Copy - copy Regexp objects
 Summary(pl.UTF-8):	Regexp::Copy - kopiowanie obiektów Regexp
 Name:		perl-Regexp-Copy
 Version:	0.06
-Release:	2
+Release:	3
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl

@@ -66,6 +66,5 @@ rm -rf $RPM_BUILD_ROOT
 %{perl_vendorarch}/Regexp/*.pm
 %dir %{perl_vendorarch}/auto/Regexp/Copy
 %{perl_vendorarch}/auto/Regexp/Copy/autosplit.ix
-%{perl_vendorarch}/auto/Regexp/Copy/Copy.bs
 %attr(755,root,root) %{perl_vendorarch}/auto/Regexp/Copy/Copy.so
 %{_mandir}/man3/*
